@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Talal Abdeldafi. I am a senior in Aerospace engineering. I was born in Texas and raised in saudi arabia. I like ⚡hiking , playing soccer and hanging out with friends.
+
+
 
 <!--
 **TilalISU/TilalISU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
